@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**bhanulk/bhanulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Bhanumathy! 👋
 
-Here are some ideas to get you started:
+🎓 **Data Science Student**  
+Mar Athanasius College of Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📊 Passionate about data, analytics, and creative problem-solving
+- 🐍 Skilled in **Python**, **R**, **HTML**, **CSS**, **Machine Learning**, and **Design**
+- 🌱 Currently exploring the world of data science and building projects
+
+## 💡 Projects
+
+- **Phishing Detection**  
+  Built systems to detect phishing in emails, URLs, and QR codes
+
+- **R Lab & Data Analytics Lab**  
+  Solved interesting data problems and experiments as part of academic labs
+
+## 🎸 Fun Fact
+
+When I'm not crunching numbers, you'll probably find me playing the guitar or listening to music! 🎶
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanumathy-t-s-997314258)
+
+---
+
+Thanks for stopping by! Feel free to check out my projects and connect. 😊
